@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" width="120">
 
-# Create Fly: Power Loader (Fabric)
+# Create Fly: Power Loader
 
 <p>
   <a href="https://modrinth.com/mod/create-fly-power-loader">
