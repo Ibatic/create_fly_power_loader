@@ -1,7 +1,10 @@
+<div align="center">
+
 <img src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" width="120">
 
 # Create Fly: Power Loader (Fabric)
 
+<div align="right">
 <p>
   <a href="https://modrinth.com/mod/create-fly-power-loader">
     <img src="https://img.shields.io/badge/Modrinth-20232a?style=for-the-badge&logo=modrinth&logoColor=1BD96A" alt="Modrinth">
