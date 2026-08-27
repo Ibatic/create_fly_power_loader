@@ -9,4 +9,4 @@ pluginManagement {
 	}
 }
 
-rootProject.name = 'create_power_loader'
+rootProject.name = 'create_fly_power_loader'
