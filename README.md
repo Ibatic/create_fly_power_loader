@@ -1,8 +1,12 @@
-<img width="300" height="300" alt="createfly-power-loader-avatar" src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" />
+<img src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" width="120">
 
 # Create Fly: Power Loader (Fabric)
 
-Modrinth: https://modrinth.com/project/create-fly-power-loader
+<p>
+  <a href="https://modrinth.com/mod/create-fly-power-loader">
+    <img src="https://img.shields.io/badge/Modrinth-20232a?style=for-the-badge&logo=modrinth&logoColor=1BD96A" alt="Modrinth">
+  </a>
+</p>
 
 A from-scratch Fabric port of [hlysine/create_power_loader](https://github.com/hlysine/create_power_loader), rebuilt against [Create Fly](https://github.com/ZurrTum/Create-Fly) for Minecraft.
 
