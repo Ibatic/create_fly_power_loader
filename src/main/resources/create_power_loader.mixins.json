@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hlysine.create_power_loader.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "GlobalRailwayManagerMixin",
+    "GlobalStationMixin",
+    "TrackEdgePointMixin",
+    "TrainMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

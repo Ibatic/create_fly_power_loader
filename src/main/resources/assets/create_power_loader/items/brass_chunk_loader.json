@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "create_power_loader:item/brass_chunk_loader"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "itemGroup.create_power_loader.main": "Create: Power Loader",
+
+  "block.create_power_loader.empty_andesite_chunk_loader": "Üres andezit chunk töltő",
+  "block.create_power_loader.andesite_chunk_loader": "Andezit chunk töltő",
+
+  "block.create_power_loader.empty_brass_chunk_loader": "Üres sárgaréz chunk töltő",
+  "block.create_power_loader.brass_chunk_loader": "Sárgaréz chunk töltő",
+  "create_power_loader.brass_chunk_loader.loading_range": "Chunk töltési távolság",
+  "create_power_loader.brass_chunk_loader.load_1x1": "1×1 négyzet",
+  "create_power_loader.brass_chunk_loader.load_3x3": "3×3 négyzet",
+  "create_power_loader.brass_chunk_loader.load_5x5": "5×5 négyzet",
+
+  "create_power_loader.ponder.empty_chunk_loader_basic.header": "Üres chunk töltők használata",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "Jobb kattintás egy Ghastre egy üres chunk töltővel, hogy elkapd",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_2": "Forgási erőt adva a töltőnek, a befogodd ghast begyújtja a portál magját ...",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_3": "...a chunk töltő életre kel",
+
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Andezit chunk töltő alapvető használata",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_1": "A chunk töltő betöltve tartja a jelenlegi chunkot, ha forgási erőt adsz neki",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_2": "Nem működik, ha a forgás sebessége túl lassú",
+
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Redstone és az andezit chunk töltő",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_1": "A chunk töltő komparátor kimenetet ad, amikor aktív",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_2": "Ha a forgási erő megszűnik, van egy rövid késleltetés (konfigurálható), mielőtt a chunk felszabadul",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_3": "A chunk betöltve marad ha a forgási erő helyreáll ezalatt a késleltetés alatt",
+
+  "create_power_loader.ponder.brass_chunk_loader_basic.header": "A sárgaréz chunk töltő alapvető használata",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_1": "A chunk töltő betöltve tartja a jelenlegi chunkot, ha forgási erőt adsz neki",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_2": "Nem működik, ha a forgás sebessége túl lassú",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_3": "Beállíthatod a betöltött távolságot az érték panelen...",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_4": "...de a nagyobb távolság nagyobb forgási sebességet igényel",
+
+  "create_power_loader.ponder.brass_chunk_loader_redstone.header": "Redstone és a sárgaréz chunk töltő",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_1": "A chunk töltő komparátor kimenetet ad, amikor aktív",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_2": "Ha a forgási erő megszűnik, van egy rövid késleltetés (konfigurálható), mielőtt a chunk felszabadul",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_3": "A chunk betöltve marad ha a forgási erő helyreáll ezalatt a késleltetés alatt",
+
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.header": "Chunkok betöltése mozgó szerkezetek körül",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_1": "Sárgaréz chunk töltők működnek mozgó szerkezeteken is",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_2": "Betöltve tartanak egy 3×3 területet a szerkezet körül",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_3": "Ha össze vannak szerelve, nem igényelnek forgási erőt a működéshez",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_4": "Működnek álló szerkezeteken is",
+
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "Chunkok betöltése vasútállomásokhoz",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "Sárgaréz chunk töltők csatlakozhatnak a vasútállomásokhoz",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "Helyezd őket a vasútállomások mellé a megfelelő irányba",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "Nincs szükség forgási erőre, de normál esetben inaktívak",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "Ha a vonat megérkezik az állomásra, a chunk töltő egy 3×3 területet tölt be",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "Ha a vonat elhagyja, a terület újra felszabadul"
+}

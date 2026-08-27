@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "create_power_loader",
+  "version": "${version}",
+  "name": "Create: Power Loader",
+  "description": "Mechanical chunk loaders for Create. Ported to Create Fly (Fabric) by Ibatic.",
+  "authors": [
+    "Lysine"
+  ],
+  "contributors": [
+    "Ibatic"
+  ],
+  "contact": {
+    "sources": "https://github.com/hlysine/create_power_loader"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "accessWidener": "create_power_loader.classtweaker",
+  "mixins": [
+    "create_power_loader.mixins.json"
+  ],
+  "entrypoints": {
+    "main": [
+      "com.hlysine.create_power_loader.CreatePowerLoader"
+    ],
+    "client": [
+      "com.hlysine.create_power_loader.CreatePowerLoaderClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": ">=26.2- <26.3-",
+    "create": ">=6.0.9-1"
+  }
+}
