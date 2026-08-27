@@ -1,4 +1,6 @@
-# Create: Power Loader (Fabric / Create Fly port)
+# Create Fly: Power Loader (Fabric)
+
+Modrinth: https://modrinth.com/project/create-fly-power-loader
 
 A from-scratch Fabric port of [hlysine/create_power_loader](https://github.com/hlysine/create_power_loader), rebuilt against [Create Fly](https://github.com/ZurrTum/Create-Fly) for Minecraft 26.2.
 
