@@ -2,18 +2,17 @@
   "schemaVersion": 1,
   "id": "create_power_loader",
   "version": "${version}",
-  "name": "Create: Power Loader",
-  "description": "Mechanical chunk loaders for Create. Ported to Create Fly (Fabric) by Ibatic.",
-  "authors": [
-    "Lysine"
-  ],
+  "name": "Create Fly: Power Loader",
+  "description": "Mechanical chunk loaders for Create Fly. Ported by Ibatic.\n\nOriginal Mod Author: Lysine",
+  "authors": [],
   "contributors": [
     "Ibatic"
   ],
   "contact": {
-    "sources": "https://github.com/hlysine/create_power_loader"
+    "sources": "https://github.com/Ibatic/create_fly_power_loader"
   },
   "license": "MIT",
+  "icon": "assets/create_power_loader/icon.png",
   "environment": "*",
   "accessWidener": "create_power_loader.classtweaker",
   "mixins": [
