@@ -8,6 +8,9 @@
   <a href="https://modrinth.com/mod/create-fly-power-loader">
     <img src="https://img.shields.io/badge/Modrinth-20232a?style=for-the-badge&logo=modrinth&logoColor=1BD96A" alt="Modrinth">
   </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/create-fly-power-loader">
+    <img src="https://img.shields.io/badge/CurseForge-20232a?style=for-the-badge&logo=curseforge&logoColor=F16436" alt="CurseForge">
+  </a>
 </p>
 
 <div align="left">
