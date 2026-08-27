@@ -4,7 +4,7 @@
 
 # Create Fly: Power Loader (Fabric)
 
-<div align="right">
+<div align="left">
 <p>
   <a href="https://modrinth.com/mod/create-fly-power-loader">
     <img src="https://img.shields.io/badge/Modrinth-20232a?style=for-the-badge&logo=modrinth&logoColor=1BD96A" alt="Modrinth">
