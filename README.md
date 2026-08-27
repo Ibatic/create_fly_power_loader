@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="createfly-power-loader-avatar" src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" />
+<img width="300" height="300" alt="createfly-power-loader-avatar" src="https://github.com/user-attachments/assets/87babc51-cb6a-486e-81f2-74489cdcdb07" />
 
 # Create Fly: Power Loader (Fabric)
 
