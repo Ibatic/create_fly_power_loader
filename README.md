@@ -17,7 +17,7 @@
 A from-scratch Fabric port of [hlysine/create_power_loader](https://github.com/hlysine/create_power_loader), rebuilt against [Create Fly](https://github.com/ZurrTum/Create-Fly) for Minecraft.
 
 Adds mechanical chunk loaders for Create Fly:
-- Andesite Chunk Loader (single chunk, static or contraption-mounted)
+- Andesite Chunk Loader (single chunk, static or contraption-mounted).
 - Brass Chunk Loader (configurable radius via block slider, works while attached to trains or train stations). 
 - Both loaders are powered by capturing a Ghast inside them.
 
