@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "G": "#c:glass_blocks",
+    "R": "minecraft:respawn_anchor",
+    "S": "create:shaft",
+    "C": "create:brass_casing",
+    "P": "create:precision_mechanism"
+  },
+  "pattern": [
+    "GGGGG",
+    "G   G",
+    "G R G",
+    "CPPPC",
+    "CCSCC"
+  ],
+  "result": {
+    "id": "create_power_loader:empty_brass_chunk_loader"
+  }
+}

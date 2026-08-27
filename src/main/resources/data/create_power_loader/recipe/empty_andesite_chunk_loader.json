@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GRG",
+    "CSC"
+  ],
+  "key": {
+    "G": "#c:glass_blocks",
+    "R": "minecraft:respawn_anchor",
+    "S": "create:shaft",
+    "C": "create:andesite_casing"
+  },
+  "result": {
+    "id": "create_power_loader:empty_andesite_chunk_loader"
+  }
+}
