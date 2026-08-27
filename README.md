@@ -35,6 +35,8 @@ Requires a local copy of the `create-fly` jar placed in `libs/` (not included in
 ./gradlew build
 ```
 
+<img width="2560" height="1351" alt="2026-08-27_01 35 54" src="https://github.com/user-attachments/assets/277b6731-abe3-47cd-8287-f90d24a64b3d" />
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
