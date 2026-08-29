@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0003d737-a955-4700-b8c0-578445f38fe9" width="120">
+<img src="https://github.com/user-attachments/assets/adad0c7e-d871-4870-b325-65a5a1e4b3d6" width="120">
 
 # Create Fly: Power Loader
 
